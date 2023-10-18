@@ -2,16 +2,13 @@
 
 
 # Projet-web
-Projet dans le cadre des modules d'IHM et d'Architectures logicielles pour le développement d'applications Web, de la 3ème année de Licence Informatique (Le Mans Université).
+Projet dans le cadre des modules d'IHM et d'Architectures logicielles pour le développement d'applications Web.
 
 
 ![capture](doc/capture.png)
 
 
-## Membres de l'équipe :
-* ALLAIN Yannis
-* CHAUMULON Cassandra
-* DERRIEN Guillaume
+
 
 
 ## Objectifs :
@@ -29,13 +26,6 @@ Créer une application Web ayant les caractéristiques suivantes :
   * Node.js
   * Framework Express
   * MongoDB  
-
-## Suivi du projet :
-→ Lien vers le [Trello](https://trello.com/invite/b/JF5x9ooX/80a29375174e14358e4d60f9d6823364/projet-web)
-
-→ Lien vers la [Démonstration vidéo](https://drive.google.com/file/d/1WwSVAbY2005VtUvT3fj0h9Z5PZQSNjcV/view?usp=sharing)
-
-→ Lien vers l'[Application](https://cassandrach.github.io/Cooking-Chief) (pas à jour)
 
 
 ## Etapes pour faire fonctionner l'application en local :
